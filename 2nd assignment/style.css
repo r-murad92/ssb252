@@ -1,0 +1,91 @@
+
+
+body {
+    background-color: rgb(203, 203, 247);
+    
+}
+hr{
+    height: 2px;
+    background-color: black;
+    margin-top: 0px;
+}
+.title_h1 {
+    color: rgb(90, 50, 50); 
+    text-align: center;
+    
+}
+
+ table {
+    width: 80% ;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+ }
+.si_col_color{
+    background-color: rgb(126, 126, 226);
+}
+
+.tag_name_col{
+    background-color: rgb(169, 241, 179);
+}
+tr, th, td {
+    border: 1px solid; 
+    
+    
+    /*margin-left: 20%;
+    margin-right: 20%;*/
+}
+/* "table_01" class is not working*/
+
+th {
+    background-color: rgb(240, 71, 59);
+    color: rgb(73, 59, 59);
+    
+}
+td {
+    text-align: center;
+    
+}
+
+.example_col{
+    background-color: rgb(215, 250, 244);
+    font-style: italic;
+    font-weight: 400;
+/*font weight bujlam na*/    
+}
+
+.description_col{
+    background-color: rgb(158, 235, 114);
+    /*font-style: italic;*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#b_quote{
+    text-align: unset;
+}
+.ol_01{
+    text-align: left;
+}
+.div_00{
+    background-color: teal;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+   
+}
+
+
+#tr_color{
+    background-color: yellowgreen;
+}
+.th_color{
+    background-color: yellow;
+}
+.coulam_color{
+    background-color: turquoise;
+}
+.display{
+    display: block;
+}
+.li_color{
+    color: violet;
+    text-align: left;
+}
